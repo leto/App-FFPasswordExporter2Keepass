@@ -1,0 +1,19 @@
+<!DOCTYPE KEEPASSX_DATABASE>
+<database>
+ <group>
+  <title>Internet</title>
+  <icon>1</icon>
+  <entry>
+   <title>GPG</title>
+   <username></username>
+   <password>stuff</password>
+   <url></url>
+   <comment></comment>
+   <icon>1</icon>
+   <creation>2010-11-19T15:09:59</creation>
+   <lastaccess>2010-11-19T15:11:48</lastaccess>
+   <lastmod>2010-11-19T15:11:48</lastmod>
+   <expire>Never</expire>
+  </entry>
+ </group>
+</database>
